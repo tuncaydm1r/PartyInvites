@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kLqmlJmYh/FVYxW3STCRbAUQG6rVYwQvpDKFWKfbIxkpTkWoVuyBjSkalQKwxUQJqr8DHz8Qw5Bpsj2YUDdmug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
