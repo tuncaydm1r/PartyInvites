@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj": {}
+    "C:\\Users\\pc\\Desktop\\Ders\\3. Sınıf Dersler\\Bahar\\Veri Yapıları alks\\Ödevler\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj": {
+    "C:\\Users\\pc\\Desktop\\Ders\\3. Sınıf Dersler\\Bahar\\Veri Yapıları alks\\Ödevler\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Ders\\3. Sınıf Dersler\\Bahar\\Veri Yapıları alks\\Ödevler\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "C:\\Users\\pc\\Desktop\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\Ders\\3. Sınıf Dersler\\Bahar\\Veri Yapıları alks\\Ödevler\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\PartyInvites.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\Ders\\3. Sınıf Dersler\\Bahar\\Veri Yapıları alks\\Ödevler\\bmb-308-hw1-tuncaydm1r-main\\bmb-308-hw1-tuncaydm1r-main\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
